@@ -26191,7 +26191,7 @@ p {
 }
 
 .omga-01__image-card.card-yellow p {
-  color: #19191b;
+  color: white;
 }
 
 .omga-01__image-card-2 {
@@ -30547,6 +30547,25 @@ p {
   margin-bottom: 33px;
 }
 
+.tabledealer-logo {
+  display: block;
+}
+
+.tabledealer-icon {
+  display: none;
+}
+
+@media (max-width: 992px) {
+  .tabledealer-logo {
+    display: none;
+  }
+  .tabledealer-icon {
+    display: block;
+    width: 50px;
+  }
+}
+
+
 .omga-08__single-testimonial p {
   color: #fff;
   font-size: 21px;
@@ -32818,6 +32837,10 @@ p {
 
 .dark-theme .cta-section {
   background: #1e1e20;
+}
+
+.navbar-toggler {
+  padding-top: 5px;
 }
 
 .dark-theme .navbar-toggler.btn-close-off-canvas {
