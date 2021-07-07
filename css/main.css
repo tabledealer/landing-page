@@ -22019,8 +22019,8 @@ p {
 }
 
 .btn--red {
-  border: 1px solid #f04037;
-  background: #f04037;
+  border: 1px solid #1185E4;
+  background: #1185E4;
 }
 
 .btn--secondary, .btn--outline {
@@ -22181,7 +22181,7 @@ p {
 
 @media (min-width: 768px) {
   .footer-2 .social-icons li a:hover {
-    background: #f04037;
+    background: #1185E4;
   }
 }
 
@@ -22507,7 +22507,7 @@ p {
 }
 
 .main-menu > li > .nav-link:hover {
-  color: #f04037 !important;
+  color: #1185E4 !important;
 }
 
 @media (min-width: 992px) {
@@ -22631,7 +22631,7 @@ p {
     top: 3px;
   }
   .offcanvas-active.navbar-expand-lg .main-menu li:hover > a {
-    color: #f04037;
+    color: #1185E4;
   }
   .offcanvas-active.navbar-expand-lg .main-menu a {
     display: -webkit-box;
@@ -22820,7 +22820,7 @@ p {
     font-weight: 300;
   }
   .header-5 .main-menu > li > .nav-link:hover {
-    color: #f04037 !important;
+    color: #1185E4 !important;
   }
 }
 
@@ -23099,7 +23099,7 @@ p {
 }
 
 .menu-dropdown > .drop-menu-item.dropdown > .menu-dropdown {
-  border-top-color: #f04037;
+  border-top-color: #1185E4;
 }
 
 @media (min-width: 992px) {
@@ -23395,7 +23395,7 @@ p {
 }
 
 .omega-form .form-check-label label .checkbox.color-blue:before {
-  color: #f04037;
+  color: #1185E4;
 }
 
 .omega-form .form-check-label label p {
@@ -23418,7 +23418,7 @@ p {
 .omega-form .button-block .form-btn {
   height: 60px;
   border-radius: 10px;
-  background-color: #f04037;
+  background-color: #1185E4;
   width: 100%;
   color: #ffffff;
   font-family: "CircularStd", sans-serif;
@@ -23886,7 +23886,7 @@ p {
   height: 60px;
   border-radius: 10px;
   border: 1px solid #C31A12;
-  background-color: #f04037;
+  background-color: #1185E4;
   overflow: hidden;
 }
 
@@ -23989,7 +23989,7 @@ p {
 
 .card-job .badge.red {
   background-color: rgba(240, 64, 55, 0.15);
-  color: #f04037;
+  color: #1185E4;
 }
 
 .card-job .badge.blue {
@@ -24036,7 +24036,7 @@ p {
 }
 
 .circle-bg-red {
-  background: #f04037;
+  background: #1185E4;
 }
 
 .circle-bg-red.outer-circle {
@@ -24410,7 +24410,7 @@ p {
   min-height: 60px;
   border-radius: 10px;
   border: 1px solid #c31a12;
-  background-color: #f04037;
+  background-color: #1185E4;
   overflow: hidden;
 }
 
@@ -24507,7 +24507,7 @@ p {
 
 .feature-widget .widget-icon.bg-red {
   background-color: rgba(240, 64, 55, 0.1);
-  color: #f04037;
+  color: #1185E4;
 }
 
 .feature-widget .widget-icon.bg-blue {
@@ -24558,7 +24558,7 @@ p {
 }
 
 .pricing-page-faq-section .faq-link a {
-  color: #f04037;
+  color: #1185E4;
 }
 
 /*>>>>>>>> Footer area styling <<<<<<<<<*/
@@ -24661,7 +24661,7 @@ p {
 }
 
 .pricing-table table .colored-row .sin-box .table-icon.neg {
-  color: #f04037;
+  color: #1185E4;
 }
 
 .pricing-table table .colored-row .sin-box .table-icon.pos {
@@ -24709,7 +24709,7 @@ p {
 
 .pricing-table table .price-widget-block .btn:hover {
   border: 1px solid #c31a12;
-  background-color: #f04037;
+  background-color: #1185E4;
   color: #fff;
 }
 
@@ -24901,7 +24901,7 @@ p {
 }
 
 .blog-card_texts .link-to-more {
-  color: #f04037;
+  color: #1185E4;
   font-size: 16px;
   font-weight: 700;
   letter-spacing: -0.5px;
@@ -25417,7 +25417,7 @@ p {
   min-height: 60px;
   border-radius: 10px;
   border: 1px solid #c31a12;
-  color: #f04037;
+  color: #1185E4;
   font-size: 21px;
   font-weight: 500;
   letter-spacing: -0.66px;
@@ -25502,7 +25502,7 @@ p {
   min-height: 60px;
   border-radius: 10px;
   border: 1px solid #c31a12;
-  color: #f04037;
+  color: #1185E4;
   font-size: 21px;
   font-weight: 500;
   letter-spacing: -0.66px;
@@ -25678,7 +25678,7 @@ p {
 }
 
 .faq-link a {
-  color: #f04037;
+  color: #1185E4;
 }
 
 .faq-link a:hover {
@@ -25718,7 +25718,7 @@ p {
 }
 
 .omga-03__faq-section .faq-link a {
-  color: #f04037;
+  color: #1185E4;
 }
 
 /*>>>>>>>> Faq Section styling <<<<<<<<<*/
@@ -27981,7 +27981,7 @@ p {
 }
 
 .feature-widget--2 .widget-icon.red {
-  color: #f04037;
+  color: #1185E4;
   background-color: rgba(240, 64, 55, 0.1);
 }
 
@@ -28808,7 +28808,7 @@ p {
 }
 
 .content-widget--2 .widget-icon.red {
-  color: #f04037;
+  color: #1185E4;
   background-color: rgba(240, 64, 55, 0.1);
 }
 
@@ -29061,7 +29061,7 @@ p {
 }
 
 .omga-04__content-widget .widget-icon.red {
-  color: #f04037;
+  color: #1185E4;
   background-color: rgba(240, 64, 55, 0.1);
 }
 
@@ -30855,7 +30855,7 @@ p {
   height: 60px;
   border-radius: 10px;
   border: 1px solid #c31a12;
-  background-color: #f04037;
+  background-color: #1185E4;
   color: #fff;
   font-size: 21px;
   font-weight: 500;
@@ -31030,7 +31030,7 @@ p {
   height: 60px;
   border-radius: 10px;
   border: 1px solid #c31a12;
-  background-color: #f04037;
+  background-color: #1185E4;
   color: #fff;
   font-size: 21px;
   font-weight: 500;
@@ -31088,7 +31088,7 @@ p {
   height: 60px;
   border-radius: 10px;
   border: 1px solid #c31a12;
-  background-color: #f04037;
+  background-color: #1185E4;
   color: #fff;
   font-size: 21px;
   font-weight: 500;
@@ -31146,7 +31146,7 @@ p {
   height: 60px;
   border-radius: 10px;
   border: 1px solid #c31a12;
-  background-color: #f04037;
+  background-color: #1185E4;
   color: #fff;
   font-size: 21px;
   font-weight: 500;
@@ -31378,7 +31378,7 @@ p {
   font-weight: 700;
   letter-spacing: -0.41px;
   border-radius: 5px;
-  background-color: #f04037;
+  background-color: #1185E4;
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
@@ -32853,7 +32853,7 @@ p {
 }
 
 .dark-theme .navbar-light .navbar-nav .nav-link:focus, .dark-theme .navbar-light .navbar-nav .nav-link:hover {
-  color: #f04037 !important;
+  color: #1185E4 !important;
 }
 
 .dark-theme .section-title h2, .dark-theme .section-title .title, .dark-theme .title {
