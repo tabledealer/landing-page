@@ -4,3 +4,25 @@
     margin-top: 20px;
     width: 220px;
 }
+
+/* Impressum and Veranstalterportal notice */
+.td-page{padding:40px 0 90px}
+@media (min-width:992px){.td-page{padding:60px 0 120px}}
+.td-block{margin-bottom:48px}
+.td-block h2{font-size:28px;line-height:1.25;letter-spacing:-.5px;margin-bottom:16px}
+.td-block p{font-size:18px;line-height:1.7;margin-bottom:14px}
+.td-block a:not([class]){color:inherit;text-decoration:underline;text-underline-offset:3px}
+.td-block a:not([class]):hover{opacity:.7}
+.td-note{font-size:15px!important;opacity:.7}
+.td-label{font-size:13px!important;letter-spacing:1.5px;text-transform:uppercase;opacity:.6;margin-bottom:10px!important}
+.td-made{padding-top:36px;border-top:1px solid rgba(0,0,0,.08)}
+.td-made-link{display:inline-flex;flex-direction:column;gap:10px;color:#2E3236;text-decoration:none}
+.td-made-link img{width:200px;height:auto;transition:opacity .2s}
+.td-made-link span{font-size:16px;opacity:.7}
+.td-made-link span i{font-size:12px;margin-left:4px}
+.td-made-link:hover img{opacity:.75}
+.td-actions{display:flex;flex-wrap:wrap;gap:14px;margin-top:28px}
+.copyright-text a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.td-actions .btn--secondary{color:#000;background:transparent;border-color:rgba(0,0,0,.18)}
+.td-actions .btn--secondary:hover{color:#fff;border-color:#000}
+.td-actions .btn--secondary:before{background:#000}
