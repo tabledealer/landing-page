@@ -26,3 +26,4 @@
 .td-actions .btn--secondary{color:#000;background:transparent;border-color:rgba(0,0,0,.18)}
 .td-actions .btn--secondary:hover{color:#fff;border-color:#000}
 .td-actions .btn--secondary:before{background:#000}
+.td-title{line-height:1.08!important;hyphens:auto;overflow-wrap:break-word}
